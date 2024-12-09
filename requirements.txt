@@ -1,0 +1,5 @@
+nodemon
+dotenv
+express
+mongoose
+body-parser
